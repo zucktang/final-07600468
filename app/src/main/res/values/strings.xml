@@ -4,4 +4,10 @@
     <string name="add_record">ADD RECORD</string>
     <string name="enter_duration_seconds">Enter duration (seconds)</string>
     <string name="enter_distance_meters">Enter distance (meters)</string>
+    <string name="speed_record">SPEED RECORD</string>
+    <string name="over_limit">OVER LIMIT: 0</string>
+    <string name="Total">Total: 0</string>
+    <string name="Distanceandtimearerequired">Distance and time are required.</string>
+    <string name="Timemustbegreaterthanzero">Time must be greater than zero.</string>
+    <string name="Speedisoverlimit">Speed is over limit!</string>
 </resources>
