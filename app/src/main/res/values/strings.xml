@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SPEED RECORDS</string>
+    <string name="save">Save</string>
+    <string name="add_record">ADD RECORD</string>
+    <string name="enter_duration_seconds">Enter duration (seconds)</string>
+    <string name="enter_distance_meters">Enter distance (meters)</string>
 </resources>
